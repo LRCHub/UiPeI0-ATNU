@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "アラビアン・ナイト（2019） (日本語版)",
+  "base_artist": "Koichi Yamadera",
+  "createdAt": "2025-12-31T07:34:08.803944Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アラビアン・ナイト(2019)[日本語版]",
+      "artist": "山寺宏一",
+      "has_synced": false,
+      "path": "select/pl_01_アラビアン・ナイト(2019)[日本語版]_山寺宏一.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "アラビアン・ナイト (2019)",
+      "artist": "山寺宏一",
+      "has_synced": false,
+      "path": "select/pl_02_アラビアン・ナイト_(2019)_山寺宏一.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "アラビアン・ナイト (2019) [日本語版]",
+      "artist": "山寺宏一",
+      "has_synced": false,
+      "path": "select/pl_03_アラビアン・ナイト_(2019)_[日本語版]_山寺宏一.txt"
+    }
+  ]
+}
